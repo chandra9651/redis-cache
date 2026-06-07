@@ -42,3 +42,11 @@ A high-performance backend API built using Node.js, Express, MongoDB, and Redis 
 ```bash
 git clone https://github.com/your-username/your-project.git
 cd your-project
+```
+
+# Evection Policy Decide with data live on cache ans which data should be deleted from redis
+
+
+# LRU - Least Recently Used Policy
+
+# LFU - Least frequestly used
